@@ -34,7 +34,7 @@
             <br>
             <br>
         </p>
-        <h3>Grafica del precio del petroleo por barril desde 26 de febrero del presente año hasta Enero 2003 Divisa en dolares</h3>
+        <h3>Grafica del precio del petroleo por barril del presente mes hasta Enero 2003 Divisa en dolares</h3>
         <canvas id="myChart"></canvas>
         <script src="grafica.js"></script>
     </section>
